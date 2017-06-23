@@ -45,5 +45,4 @@ require("babel-core").transform("code", {
 
 [nodejs]:https://nodejs.org/en/
 [preset-flow-syntax]:https://github.com/Gozala/babel-preset-flow-syntax
-[plugin-transform-es2015-modules-commonjs]:
-[transform-class-properties]:http://babeljs.io/docs/plugins/transform-es2015-modules-commonjs/
+[plugin-transform-es2015-modules-commonjs]:http://babeljs.io/docs/plugins/transform-es2015-modules-commonjs/
