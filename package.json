@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-flow-node",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Babel preset for flow code targeting nodejs.",
   "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
   "repository": "https://github.com/gozala/babel-preset-flow-node",
